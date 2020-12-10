@@ -6,7 +6,7 @@ LABEL maintainer="Pascal Jacob <pascal.jacob@globis-software.com>"
 ENV CATALINA_HOME /usr/local/tomcat
 ENV PATH $CATALINA_HOME/bin:$PATH
 ENV TOMCAT_VERSION_MAJOR 9
-ENV TOMCAT_VERSION_FULL 9.0.39
+ENV TOMCAT_VERSION_FULL 9.0.41
 
 # Set Java parameters
 ENV JAVA_OPTS="-Xmx4g -XX:+UseG1GC -XX:+DisableExplicitGC"
