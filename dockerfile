@@ -1,4 +1,4 @@
-FROM openjdk:14-jdk-alpine
+FROM openjdk:15-jdk-alpine
 
 LABEL maintainer="Pascal Jacob <pascal.jacob@globis-software.com>"
 

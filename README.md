@@ -1,4 +1,4 @@
-## This docker image runs Tomcat 9 with Java 14 JDK on Alpine Linux, ready to deploy a WAR file with the Globis Software application.
+## This docker image runs Tomcat 9.0.41 with Java 15 JDK on Alpine Linux, ready to deploy a WAR file with the Globis Software application.
 
 First, create a folder on the docker host to share files with the container:
 
